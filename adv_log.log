@@ -1,0 +1,22 @@
+2019-07-12 18:44:44,458:INFO:10 / 5 = 2.0
+2019-07-12 18:46:21,714:INFO:10 / 5 = 2.0
+2019-07-12 18:47:01,424:__main__:INFO:10 / 5 = 2.0
+2019-07-12 19:10:01,352:__main__:ERROR:Division by 0 attempted.
+2019-07-12 19:11:03,919:__main__:ERROR:Division by 0 attempted.
+2019-07-12 19:11:03,919:__main__:ERROR:Division by 0 attempted.
+Traceback (most recent call last):
+  File "<ipython-input-5-b376a145d5ce>", line 9, in divide_robust
+    result = in1/in2
+ZeroDivisionError: division by zero
+2019-07-12 19:12:51,501:__main__:ERROR:Division by 0 attempted.
+2019-07-12 19:12:51,502:__main__:ERROR:Division by 0 attempted.
+Traceback (most recent call last):
+  File "<ipython-input-5-b376a145d5ce>", line 9, in divide_robust
+    result = in1/in2
+ZeroDivisionError: division by zero
+2019-07-12 19:13:55,257:__main__:ERROR:Division by 0 attempted.
+2019-07-12 19:13:55,258:__main__:ERROR:Division by 0 attempted.
+Traceback (most recent call last):
+  File "<ipython-input-5-b376a145d5ce>", line 9, in divide_robust
+    result = in1/in2
+ZeroDivisionError: division by zero
